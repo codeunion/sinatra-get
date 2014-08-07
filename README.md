@@ -1,6 +1,6 @@
-# Do you Kata-Foo?
+# `GET` http://localhost:9292
 
-We will begin exploring how to connect our kata to the internet.
+Learn how the http `GET` action forms the basis of interaction between clients and servers.
 
 1. Fork and clone this repository.
 
@@ -18,5 +18,10 @@ We will begin exploring how to connect our kata to the internet.
 
   ### [http://localhost:9292][http://localhost:9292]
 
+1. Get busy building functionality
+
+  ### [View Project Todo's][todo]
+
 
 [http://localhost:9292]:http://localhost:9292
+[todo]:./wiki/todo.md
