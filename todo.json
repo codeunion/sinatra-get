@@ -1,0 +1,8 @@
+{
+  "todo": [
+    { "title": "Learn to use http `GET`",
+      "body": "- [ ] Fork and clone https://github.com/codeunion/sinatra-get/ \n- [ ] Build a server endpoint for EACH and EVERY week1 kata that returns that kata's return value to a browser. \n- [ ] Create a corresponding web form that allows a user to dynamically input the arguments provided to each kata."
+    }
+    ]
+}
+
