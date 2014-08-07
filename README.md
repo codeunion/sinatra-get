@@ -4,6 +4,11 @@ Learn how the http `GET` action forms the basis of interaction between clients a
 
 1. Fork and clone this repository.
 
+  ```shell
+  git clone git@github.com:<your-user-name>/sinatra-get.git
+  cd sinatra-get
+  ```
+
 1. Install the relevant gems.
 
   ```shell
@@ -18,7 +23,7 @@ Learn how the http `GET` action forms the basis of interaction between clients a
 
   [http://localhost:9292][http://localhost:9292]
 
-1. [Learn about `GET`][home]
+1. [Learn HowTo `GET`][home]
 
 
 [http://localhost:9292]:http://localhost:9292
